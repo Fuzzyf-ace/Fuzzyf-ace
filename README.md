@@ -2,7 +2,13 @@
 
 This is Daiming Yang, an enthusiastic full-stack and mobile developer, proficient in utilizing Git for version control, has extensive experience in full-stack web application development, including building front-end with React, TypeScript, Ant Design, Bootstrap, Dart, and Flutter, and back-end service development using Java, Spring, Kotlin, and Micronaut, with hands-on cloud deployment service experiences using Docker on AWS and GCP
 
-<h3 align="left">Languages and Tools:</h3>
+- 🔭 I’m currently seeking an internship starting from January 2024
+- 🌱 I’m currently learning React and Typescript
+- 👯 I’m looking to collaborate on web development
+- 💬 Ask me about life in Boston and study in NEU Software Engineering Systems...
+- 📫 How to reach me: <a href="mailto:yang.daim@northeastern.edu">yang.daim@northeastern.edu</a>  
+- 😄 Pronouns: He/him/his
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -94,6 +100,11 @@ This is Daiming Yang, an enthusiastic full-stack and mobile developer, proficien
             alt="mongodb" width="40" height="40" />
     </a>
 </p>
+
+<h3 align="left">Previous Work:</h3>
+<a href="https://www.shiftflow.app/">
+    <img style="background-color: #177edd" src="https://assets-global.website-files.com/652823e4c03bace168b831dc/652828fb20456e0e9e969a7a_Vectors-Wrapper.svg" loading="lazy" width="254" height="80" alt="shiftflow" class="vectors-wrapper-3"  />
+</a>
 
 
 <!--
