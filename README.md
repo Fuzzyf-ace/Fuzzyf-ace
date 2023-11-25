@@ -103,8 +103,10 @@ This is Daiming Yang, an enthusiastic full-stack and mobile developer, proficien
 
 <h3 align="left">Previous Work:</h3>
 <a href="https://www.shiftflow.app/">
-<img src="https://assets-global.website-files.com/652823e4c03bace168b831dc/652828fb20456e0e9e969a7a_Vectors-Wrapper.svg" width="254" height="80" alt="shiftflow" style="max-width: 100%;background-color: #177edd;">
+    <img src="/image//ShiftFlow.svg" alt="shiftflow">
 </a>
+
+
 
 
 <!--
