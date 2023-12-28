@@ -101,7 +101,7 @@ This is Daiming Yang, an enthusiastic full-stack and mobile developer, proficien
     </a>
 </p>
 
-<h3 align="left">Previous Work:</h3>
+<h3 align="left">Previous Attended Work:</h3>
 <a href="https://www.shiftflow.app/">
     <img src="/image//ShiftFlow.svg" alt="shiftflow">
 </a>
